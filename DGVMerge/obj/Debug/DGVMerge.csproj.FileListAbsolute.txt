@@ -1,0 +1,13 @@
+C:\Users\Asian Land\source\repos\DGVMerge\DGVMerge\bin\Debug\DGVMerge.exe.config
+C:\Users\Asian Land\source\repos\DGVMerge\DGVMerge\bin\Debug\DGVMerge.exe
+C:\Users\Asian Land\source\repos\DGVMerge\DGVMerge\bin\Debug\DGVMerge.pdb
+C:\Users\Asian Land\source\repos\DGVMerge\DGVMerge\bin\Debug\MySql.Data.dll
+C:\Users\Asian Land\source\repos\DGVMerge\DGVMerge\obj\Debug\DGVMerge.csproj.AssemblyReference.cache
+C:\Users\Asian Land\source\repos\DGVMerge\DGVMerge\obj\Debug\DGVMerge.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asian Land\source\repos\DGVMerge\DGVMerge\obj\Debug\DGVMerge.Form1.resources
+C:\Users\Asian Land\source\repos\DGVMerge\DGVMerge\obj\Debug\DGVMerge.Properties.Resources.resources
+C:\Users\Asian Land\source\repos\DGVMerge\DGVMerge\obj\Debug\DGVMerge.csproj.GenerateResource.cache
+C:\Users\Asian Land\source\repos\DGVMerge\DGVMerge\obj\Debug\DGVMerge.csproj.CoreCompileInputs.cache
+C:\Users\Asian Land\source\repos\DGVMerge\DGVMerge\obj\Debug\DGVMerge.csproj.CopyComplete
+C:\Users\Asian Land\source\repos\DGVMerge\DGVMerge\obj\Debug\DGVMerge.exe
+C:\Users\Asian Land\source\repos\DGVMerge\DGVMerge\obj\Debug\DGVMerge.pdb
